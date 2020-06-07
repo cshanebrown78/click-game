@@ -1,0 +1,6 @@
+.wrapper {
+  overflow: auto;
+  color: #777777;
+  display: flex;
+  flex-direction: column;
+}
